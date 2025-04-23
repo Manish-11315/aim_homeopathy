@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766828226181",
+    "project_id": "aim-homeopathy",
+    "storage_bucket": "aim-homeopathy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766828226181:android:e688e65eb79f288f362bec",
+        "android_client_info": {
+          "package_name": "com.aim_homeopathy.aim_homeopathy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2yr-CloxO4e8xcUf3013Kg5s0P9Nl2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
