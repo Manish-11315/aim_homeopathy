@@ -28,7 +28,7 @@ class HomeApp extends StatelessWidget {
         title: Text("Homeopathy")
       ),
       body:
-        Text("Hello World")
+        Text("Hello first commit")
     );
   }
 
